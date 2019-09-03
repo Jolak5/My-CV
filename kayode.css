@@ -1,0 +1,173 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: calibri;
+}
+
+.intro-container {
+	background-color: #AEBD93;
+	height: 700px;
+}
+.intro-container .logo {
+	font-family: sans-serif;
+	padding: 0px;
+	padding-top: 30px;
+}
+.intro-container .intro-speech{
+	padding-top: 150px;
+	padding-left: 350px;
+	width: 250px;
+	height: 250px;
+	display: inline-flex;
+	font-size: 25px;
+}
+.intro-container .intro-speech .picture{
+	margin-left: 50px;
+}
+.intro-speech .text-header .name {
+	color: #ffffff;
+	font-size: 50px;
+	padding: 0px;
+}
+
+.details {
+	display: inline-flex;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.details .title {
+	font-size: 40px;
+	padding-left: 200px;
+}
+.details address {
+	padding-left: 300px;
+	font-size: 20px;
+}
+.profile {
+	display: inline-flex;
+	height: 300px;
+	width: 1348px;
+	background-color: #A0DDE6;
+}
+
+.profile p {
+	font-size: 20px;
+	padding-top: 100px;
+	padding-left: 200px;
+	width: 630px;
+}
+.profile .title-prof {
+	padding-top: 100px;
+	padding-left: 100px;
+	font-size: 40px;
+}
+.skills {
+	padding-top: 50px;
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-bottom: 50px;
+}
+.skills .skills-list {
+	display: inline-flex;
+}
+.skills h1 {
+	font-size: 40px;
+	text-align: center;
+}
+.skills .skills-list li {
+	font-size: 20px;
+}
+.education {
+	display: inline-flex;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-color: #AEBD93;
+
+}
+.education .title-edu {
+	font-size: 40px;
+	padding-left: 200px;
+}
+.education .edu-list {
+	padding-left: 300px;
+	font-size: 20px;
+	padding-right: 200px;
+}
+.work {
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.work h1 {
+	font-size: 40px;
+	text-align: center;
+}
+.work strong {
+	font-size: 25px;
+}
+.work ul li {
+	font-size: 20px;
+}
+.work div {
+	padding-bottom: 30px;
+}
+.prof-cert {
+	border-style: solid;
+	border-width: 1px;
+	box-shadow: 5px ;
+	border-radius: 5px;
+	padding-right: 200px;
+	padding-left: 200px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-size: 20px;
+	display: inline-flex;
+	background-color: #5C946E;
+}
+.prof-cert h1 {
+	padding-right: 20px;
+	font-size: 40px;
+}
+.prof-cert strong{
+	font-size:25px;
+}
+.prof-cert div {
+	border-left-style: solid;
+	border-left-width: 1px;
+	padding: 30px;
+}
+.extra .extra-cont {
+	display: inline-flex;
+}
+.extra {
+	padding: 100px 200px 100px 200px;
+}
+.extra .extra-cont div {
+	border-style: solid;
+	border-width: 1px;
+	padding: 30px;
+	font-size: 20px;
+
+}
+.extra  h1 {
+	font-size:40px;
+	text-align: center;
+	padding-top: 30px;
+}
+.lang-ref {
+	display: inline-flex;
+	padding: 100px 200px 100px 200px;
+	background-color: #30C5FF;
+	width: 948px
+}
+.lang-ref strong {
+	font-size: 40px;
+}
+.lang-ref p {
+	font-size: 20px;
+}
+.lang-ref .ref {
+		padding-left: 350px;
+}
